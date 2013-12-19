@@ -1,0 +1,22 @@
+﻿Build started 12/18/2013 11:44:25 PM.
+     1>Project "D:\backup\Peace\Peace\Peace.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp d11.cpp globals.cpp main.cpp sph.cpp window.cpp
+         window.cpp
+     1>d:\backup\peace\peace\includes.h(15): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+         sph.cpp
+     1>d:\backup\peace\peace\includes.h(15): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+         main.cpp
+     1>d:\backup\peace\peace\includes.h(15): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+         globals.cpp
+     1>d:\backup\peace\peace\includes.h(15): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+         d11.cpp
+     1>d:\backup\peace\peace\includes.h(15): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+         Camera.cpp
+     1>d:\backup\peace\peace\includes.h(15): fatal error C1083: Cannot open include file: 'd3dx10math.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "D:\backup\Peace\Peace\Peace.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.06
