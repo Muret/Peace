@@ -4,7 +4,7 @@
 
 #include "includes.h"
 
-
+//wrapper for dx11 device calls
 
 //constant variables
 struct MatrixBuffer
